@@ -1,0 +1,12 @@
+
+
+.wrapperz{
+    height: 100vh;
+    border: tan;
+}
+.menubarz{
+    height: 30px;
+    background-color: royalblue;
+    display: flex;
+    justify-content: space-around;
+}
